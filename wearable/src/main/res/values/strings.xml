@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">wearable</string>
+    <string name="my_digital_name">Sunshine</string>
+    <string name="digital_am">AM</string>
+    <string name="digital_pm">PM</string>
+
+    <string name="error_msg_data_layer">ERROR: failed to send DataMap to data layer</string>
+    <string name="error_msg_connection_failure">"onConnectionFailed: "</string>
+    <string name="error_msg_connection">"onConnected: "</string>
+    <string name="error_msg_connention_suspended">"onConnectionSuspended: "</string>
+    <string name="keyword_high">high</string>
+    <string name="keyword_low">low</string>
+    <string name="keyword_clear">clear</string>
+    <string name="keyword_ic">ic_</string>
+    <string name="keyword_drawable">drawable</string>
+    <string name="keyword_bw">_bw</string>
+    <string name="temperature_format">%3s</string>
+    <string name="degree_sign">°</string>
+    <string name="date_format">EEE, dd MMMM</string>
+
+</resources>
